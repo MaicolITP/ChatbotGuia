@@ -1,0 +1,6 @@
+# Ignora los archivos relacionados a API keys
+.env
+
+# Ignora la carpeta
+env
+__pycache__
