@@ -1,6 +1,8 @@
 # Ignora los archivos relacionados a API keys
 .env
 
+response.mp3
+
 # Ignora la carpeta
 env
 __pycache__
